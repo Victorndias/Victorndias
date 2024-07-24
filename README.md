@@ -21,7 +21,7 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/victtorns/](https://www.instagram.com/victtorns?igsh=MTczcjF4bHI3YXRueg==))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victtorns/?next=%2F)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorndias&show_icons=true&theme=gotham)
